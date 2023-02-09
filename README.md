@@ -1,4 +1,4 @@
-<h1 align="center">Controller-server-repository pattern for CRUD using Golang</h1>
+<h1 align="center">Controller-service-repository pattern for CRUD using Golang</h1>
 
 use PostgreSQL and pool connections.
 
